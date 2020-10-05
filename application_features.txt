@@ -1,0 +1,11 @@
+#Application Features
+1. Register the Course
+2. Verify EMail Address
+3. Make Payment 
+4. After confirm payment 
+5. Update Bio Data 
+--Former school/ Next of Kin / Bio Data / O level / 
+6. Choose Course  
+7. Update O-Level 
+8. Generate Point calculator
+9. Admission Processing
